@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-sun-values",
+  "displayName": "Sun Values",
+  "version": "0.1.0",
+  "description": "Homebridge plugin to expose the position of the sun for automation",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AssafHalfon/homebridge-sun-values.git"
+  },
+  "bugs": {
+    "url": "http://github.com/AssafHalfon/homebridge-sun-values/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "suncalc": "^1.8.0"
+  }
+}
