@@ -5,7 +5,7 @@
   "author": "Assaf Halfon",
   "description": "Homebridge plugin to expose the position of the sun for automation",
   "license": "ISC",
-  "homepage": "https://github.com/AssafHalfon/homebridge-sun-values#readme"
+  "homepage": "https://github.com/AssafHalfon/homebridge-sun-values#readme",
   "keywords": [
     "homebridge-plugin"
   ],
